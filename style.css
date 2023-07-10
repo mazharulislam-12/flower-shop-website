@@ -126,4 +126,44 @@ body{
     }
 /* hot deal section end */
 
+/* Instagram section start */
 
+/* Instagram section end */
+
+/* latest section start */
+.latest-container{
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+    width: 1100px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.latest-container p{
+    color: rgba(39, 39, 39, 0.60);
+}
+.input-form{
+    text-align: center;
+    
+}
+.input-form input{
+    padding: 15px 85px;
+    border: none;
+    color: rgba(39, 39, 39, 0.60);
+}
+/* latest section end */
+
+footer{
+    background: #111010;
+    color: white;
+    height: 300px;
+}
+.footer-text{
+   height: 100vh;
+   margin-top: 100px;
+}
+.footer-copy{
+    text-align: center;
+}
