@@ -78,14 +78,33 @@ body{
     background: rgba(167, 33, 98, 0.15);
     width: 300px;
     height: 450px;
-    
-    
-  
-     
  }
  .feature-ph{
     margin-top: 30px;
     text-align: center;
-    font-weight: bold;
+    color: #272727;
+    text-decoration: underline;
  }
 /* Featured section end */
+
+/* service section start */
+.service-section{
+    margin-bottom: 17;
+}
+.service-container{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    height: 30vh;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 120px;
+}
+.service-title p{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 20px;
+    margin-top: 15px;
+}
+/* service section end */
