@@ -108,3 +108,22 @@ body{
     margin-top: 15px;
 }
 /* service section end */
+
+/* hot deal section start */
+    .hot-deal-section{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 1518px;
+        height: 400px;
+        border-radius: 8px;
+        background: rgba(229, 84, 115, 0.05);
+        margin-bottom: 200px;
+
+    }
+    .button{
+        margin-left: 200px;
+    }
+/* hot deal section end */
+
+
